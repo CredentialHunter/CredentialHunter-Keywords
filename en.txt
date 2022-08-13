@@ -1,0 +1,37 @@
+/*
+* Common credential hunting keywords
+* en English
+*/
+
+"_auth",
+"access_key",
+"access_token",
+"accesskey",
+"account key",
+"accountkey",
+"api-key",
+"api_key",
+"apikey",
+"app_key",
+"appkey",
+"application_key",
+"authToken",
+"aws_key",
+"client_secret",
+"pass",
+"passvar",
+"passwd",
+"password",
+"private-key",
+"private_key",
+"privatekey",
+"pswd",
+"pswrd",
+"pwd",
+"pwrd",
+"secret",
+"secret-key",
+"secretkey",
+"sensitive_key",
+"sensitivekey",
+"sharedaccesssignature"
