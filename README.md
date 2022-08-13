@@ -1,5 +1,7 @@
 # CredentialHunter-Keywords
-Sometimes programmers use different words to store credentials. This may change based upon what they are accustom to and the language they speak. The goal in this project is to accumulate a list of keywords in different languages that may contain a credential, such as a paassword, access key, or authentication token.
+Credential hunters, sometimes programmers use different words to store credentials. This may change based upon what they are accustom to and the language they speak. The goal in this project is to accumulate a list of keywords in different languages that may contain a credential, such as a paassword, access key, or authentication token.
+
+Please add a list of common keywords used for credentials in whatever language(s) you speak.
 
 * en: Happy credential hunting
 * es: Feliz caza de credenciales
